@@ -210,7 +210,7 @@ static inline void reset_LastError()
 #define CLIENT_HSTEAMUSER 1
 #define SERVER_HSTEAMUSER 1
 
-#define DEFAULT_NAME "changename"
+#define DEFAULT_NAME "VictorSG03"
 #define DEFAULT_LANGUAGE "english"
 #define DEFAULT_IP_COUNTRY "US"
 
